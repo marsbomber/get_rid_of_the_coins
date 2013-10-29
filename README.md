@@ -1,6 +1,6 @@
 # Get Rid of the Coins
 
-This is a little program that takes an amount payable, types of coins as well number of coins for each coin type. It'll work out the best way to make up the payable amount using the most number of coins. You know, coz we hate keeping coins and want to get rid of them!
+This is a little program that takes an amount payable, types of coins, as well as number of coins for each coin type. It'll work out the best way to make up the payable amount using the most number of coins. You know, coz we hate keeping coins and want to get rid of them!
 
 ## Rules
 
